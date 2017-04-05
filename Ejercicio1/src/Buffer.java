@@ -1,4 +1,4 @@
-
+// comentario
 class Buffer {
    private char [] buffer;
    private int count = 0, in = 0, out = 0;
